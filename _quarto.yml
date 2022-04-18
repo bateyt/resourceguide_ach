@@ -1,0 +1,25 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Pathway Resource Guide"
+  subtitle: "Arts, Humanities, and Communication"
+  date: "last-modified"
+  date-format: iso
+  chapters:
+    - index.qmd
+    - cwu.qmd
+    - ewu.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
