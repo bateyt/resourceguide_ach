@@ -1,7 +1,6 @@
 project:
   type: book
-  output-dir: docs
-
+  
 book:
   title: "Pathway Resource Guide"
   subtitle: "Arts, Humanities, and Communication"
