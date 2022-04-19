@@ -9,8 +9,12 @@ book:
   date-format: iso
   chapters:
     - index.qmd
-    - cwu.qmd
-    - ewu.qmd
+    - art-design.qmd
+    - communication-studies.qmd
+    - drama.qmd
+    - english.qmd
+    - humanities.qmd
+    - music.qmd
     - references.qmd
 
 bibliography: references.bib
