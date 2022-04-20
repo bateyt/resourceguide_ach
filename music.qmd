@@ -1,27 +1,24 @@
-# Music
+# Music {.unnumbered}
+
+## Career Information and Resources
 
 ## Transfer Institution Resources
 
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
-| Institution                   | Relevant Programs & Departments         | Contacts                                      |
-+===============================+=========================================+===============================================+
-| Central Washington University | -   [Music](https://www.cwu.edu/music/) | Phone: (509) 963-1216\                        |
-|                               |                                         | Fax: (509) 963-1239\                          |
-|                               |                                         | Email: [music\@cwu.edu](mailto:music@cwu.edu) |
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
-| Eastern Washington University |                                         |                                               |
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
-| The Evergreen State College   |                                         |                                               |
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
-| Portland State University     |                                         |                                               |
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
-| University of Washington      |                                         |                                               |
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
-| Warner Pacific College        |                                         |                                               |
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
-| Washington State University   |                                         |                                               |
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
-| Western Washington University |                                         |                                               |
-+-------------------------------+-----------------------------------------+-----------------------------------------------+
+### Central Washington University
 
-: Transfer Institution Matrix for Music
+-   [Music](https://www.cwu.edu/music/)
+    -   Phone: 509-963-1216; Email: [music\@cwu.edu](mailto:music@cwu.edu); Fax: 509-963-1239
+
+### Eastern Washington University
+
+### The Evergreen State College
+
+### Portland State University
+
+### University of Washington
+
+### Warner Pacific College
+
+### Washington State University
+
+### Western Washington University

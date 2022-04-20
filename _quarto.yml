@@ -7,6 +7,7 @@ book:
   subtitle: "Arts, Humanities, and Communication"
   date: "last-modified"
   date-format: iso
+  number-depth: 0
   chapters:
     - index.qmd
     - art-design.qmd

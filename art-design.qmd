@@ -1,26 +1,26 @@
-# Art and Design
+# Art & Design {.unnumbered}
+
+## Career Information and Resources
+
+A degree in Art & Design provides a solid foundation for students pursuing a wide variety of careers [@ooh_artsdesign].
 
 ## Transfer Institution Resources
 
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
-| Institution                        | Relevant Programs & Departments              | Contacts                                            |
-+====================================+==============================================+=====================================================+
-| Central Washington University      | [Art + Design](https://www.cwu.edu/theatre/) | Phone: (509) 963-2665\                              |
-|                                    |                                              | Email: [art_dept\@cwu.edu](mailto:art_dept@cwu.edu) |
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
-| Eastern Washington University      |                                              |                                                     |
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
-| The Evergreen State College        |                                              |                                                     |
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
-| Portland State University          |                                              |                                                     |
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
-| University of Washington           |                                              |                                                     |
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
-| Warner Pacific College             |                                              |                                                     |
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
-| Washington State University        |                                              |                                                     |
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
-| Western Washington University      |                                              |                                                     |
-+------------------------------------+----------------------------------------------+-----------------------------------------------------+
+### Central Washington University
 
-: Transfer Institution Matrix for Art and Music
+-   [Department of Art + Design](http://www.cwu.edu/art/)
+    -   Phone: 509-963-2665; Email: [art_dept\@cwu.edu](mailto:art_dept@cwu.edu)
+
+### Eastern Washington University
+
+### The Evergreen State College
+
+### Portland State University
+
+### University of Washington
+
+### Warner Pacific College
+
+### Washington State University
+
+### Western Washington University
