@@ -2,7 +2,7 @@
 
 This is a resource guide for advisors, faculty mentors, and students within the [Arts, Communications, and Humanities Pathway](https://lowercolumbia.edu/programs/arts.php) at Lower Columbia College.[^1]
 
-[^1]: [View .pdf](bateyt.github.io/resourceguide_ach/Pathway-Resource-Guide.pdf)
+[^1]: [View .pdf](Pathway-Resource-Guide.pdf)
 
 For more resources, please see the [General Transfer Resource Guide](https://bateyt.github.io/resourceguide_gentransfer) or explore LCC's other [Career Pathways](https://lowercolumbia.edu/programs/index.php).
 

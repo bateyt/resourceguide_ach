@@ -5,9 +5,9 @@ project:
 book:
   title: "Pathway Resource Guide"
   subtitle: "Arts, Humanities, and Communication"
+  author: "LCC Advising Hub"
   date: "last-modified"
   date-format: iso
-  number-depth: 0
   chapters:
     - index.qmd
     - art-design.qmd
