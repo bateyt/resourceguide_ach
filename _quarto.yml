@@ -22,7 +22,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme: flatly
+    theme: superhero
   pdf:
     documentclass: scrreprt
   docx:
