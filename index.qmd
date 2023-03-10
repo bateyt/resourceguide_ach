@@ -1,6 +1,6 @@
 # About {.unnumbered}
 
-This is a resource guide for advisors, faculty mentors, and students within the [Arts, Communications, and Humanities Pathway](https://lowercolumbia.edu/programs/arts.php) at Lower Columbia College.[^1]
+This is an awesome resource guide for advisors, faculty mentors, and students within the [Arts, Communications, and Humanities Pathway](https://lowercolumbia.edu/programs/arts.php) at Lower Columbia College.[^1]
 
 [^1]: [View .pdf](Pathway-Resource-Guide.pdf)
 
